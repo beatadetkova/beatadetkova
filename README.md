@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there, I'm Beata 👋</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/beata-detkova-a56822a0/" target="_blank" rel="noopener">LinkedIn</a> • <a href="https://tinyurl.com/zz23duku" target="_blank" rel="noopener">Resume</a>
+ <a href="https://beatadetkova.com/" target="_blank" rel="noopener">Portfolio</a> • <a href="https://www.linkedin.com/in/beata-detkova-a56822a0/" target="_blank" rel="noopener">LinkedIn</a> • <a href="https://tinyurl.com/zz23duku" target="_blank" rel="noopener">Resume</a>
 </div>
 <br />
 
